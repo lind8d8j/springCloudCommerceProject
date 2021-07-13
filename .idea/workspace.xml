@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3e52e10-576c-445b-9bf1-14b659c659de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="Mybatis Mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/goods-consumer/src/main/java/com/learnspringcloud/goodsconsumer/controller/ConsumerGoodsController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/goods-consumer/src/main/java/com/learnspringcloud/goodsconsumer/filter/SysIntercepter.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/goods-provider/src/main/java/com/learnspringcloud/goodsprovider/dao/GoodsDao.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/goods-consumer/src/main/java/com/learnspringcloud/goodsconsumer/hystrix/CartServiceHystrix.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Springboot\maven\repository" />
+        <option name="mavenHome" value="D:/SpringCloud/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1v9uvncf64qB34iMPHJvYhFHbbA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/goods-consumer/src/main/resources/templates/js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learn\commerceproject\goods-consumer\src\main\resources\templates\js" />
+      <recent name="D:\learn\commerceproject\goods-consumer\src\main\resources\templates\img" />
+      <recent name="D:\learn\commerceproject\goods-consumer\src\main\resources\templates\css" />
+      <recent name="D:\learn\commerceproject\goods-consumer\src\main\resources" />
+      <recent name="D:\learn\commerceproject\eureka-consumer\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\learn\commerceproject" />
+      <recent name="D:\learn\commerceproject\goods-consumer\src\main\resources\static\img\goods" />
+      <recent name="D:\learn\commerceproject\user-consumer\src\main\resources\static" />
+      <recent name="D:\learn\commerceproject\goods-consumer\src\main\resources\static" />
+      <recent name="D:\learn\commerceproject\goods-consumer\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayServiceApplication">
+    <configuration name="CommerceprojectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="commerceproject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learnspringcloud.commerceproject.CommerceprojectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learnspringcloud.userconsumer.UserConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learnspringcloud.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learnspringcloud.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="goods-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learnspringcloud.goodsconsumer.GoodsConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="goods-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learnspringcloud.goodsprovider.GoodsProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learnspringcloud.userprovider.UserProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3e52e10-576c-445b-9bf1-14b659c659de" name="Default Changelist" comment="" />
+      <created>1625986858754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625986858754</updated>
+      <workItem from="1625986861891" duration="18872000" />
+      <workItem from="1626048534435" duration="2468000" />
+      <workItem from="1626051044740" duration="2632000" />
+      <workItem from="1626053714938" duration="2708000" />
+      <workItem from="1626057268629" duration="28302000" />
+      <workItem from="1626158977504" duration="3797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625997295635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="427" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1625997295635" />
+    <state x="520" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1626105457019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1626105457019" />
+    <state x="416" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625994741055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="416" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1625994741055" />
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.0.center" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.0.left" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.0.right" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.1.bottom" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.1.center" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.1.left" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.1.right" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.2.bottom" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.2.center" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.2.left" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state width="1493" height="178" key="GridCell.Tab.2.right" timestamp="1626162806325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="178" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1626162806325" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1626060445589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1626060445589" />
+    <state x="565" y="190" key="chooseDestDirectoryDialog" timestamp="1625990272290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1625990272290" />
+    <state x="321" y="148" width="894" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1626108564970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="148" width="894" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1626108564970" />
+    <state x="377" y="112" width="782" height="600" key="find.popup" timestamp="1626073912421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="112" width="782" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1626073912421" />
+    <state x="178" y="113" key="new project wizard" timestamp="1626049276181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="113" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1626049276181" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1626014799528">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1626014799528" />
+  </component>
+</project>

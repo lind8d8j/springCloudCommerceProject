@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server" />
+        <module name="common" />
+        <module name="user-provider" />
+        <module name="gateway-service" />
+        <module name="goods-provider" />
+        <module name="goods-consumer" />
+        <module name="user-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commerceproject" target="1.8" />
+      <module name="common" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="goods-consumer" target="1.8" />
+      <module name="goods-provider" target="1.8" />
+      <module name="user-consumer" target="1.8" />
+      <module name="user-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

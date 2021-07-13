@@ -1,0 +1,4 @@
+com\entity\User.class
+com\entity\Cart.class
+com\entity\Goods.class
+com\entity\Userorder.class
