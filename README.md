@@ -5,10 +5,10 @@ eureka、feign、ribbon、hystrix、zuul、security、
 spring cloud、spring boot、mybatis、spring MVC、thymeleaf
 
 环境：
-maven 3.6.2
-mysql 5.5
-idea 2019.3.5
-springboot 2.3.7.RELEASE
+maven 3.6.2 、
+mysql 5.5 、
+idea 2019.3.5 、
+springboot 2.3.7.RELEASE 、
 spring cloud Hoxton.SR11
 
 # 延伸阅读
